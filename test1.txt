@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0A64-35C6
+
+ Directory of C:\Users\sonal\OneDrive\Desktop\Myproject
+
+29-10-2024  11:10    <DIR>          .
+29-10-2024  00:06    <DIR>          ..
+29-10-2024  11:10                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  33,605,988,352 bytes free
